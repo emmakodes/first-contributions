@@ -403,6 +403,7 @@ Enrique Javier
 - [Anay Deshpande](https://github.com/anay-deshpande/)
 - [Laughing Nerd](https://github.com/laughing-nerd)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
+- [We move]
 - [Aecio Neto](https://github.com/aecio-neto)
 - [Neha Jadhav](https://github.com/jadhavneha)
 - [Kjell-Magnus](https://github.com/kmgrime)
